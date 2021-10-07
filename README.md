@@ -13,7 +13,7 @@ Ronan:
 I'm interested in this dataset because it gives me an insight into the analytics of crowdsourcing. I want to research which aspects of this dataset can best determine a Kickstarter project's chances of success. For instance, I can look into how the goal amount affects project success as well as how other data such as the fundraising time-window and category type impact success. I think this dataset is a great choice for the dashboard we'll be making near the end of the project because it consists of hundreds of thousands of rows of data that can be used to accurately calculate things such as the average pledge per person, which can further contribute to measuring project success and can be visualized well in a dashboard.
 
 Jenny:
-
+Dataset is interesting to me as it contains large set of information about crowd preference towards different Kickstarter projects. I will research on the how the corwdsourcing can help planners of Kickstarters to set adequate goals for different types of prrojects to help maintain the balance of fundraising and success rate. To be more specific, I will look into the goals for different type and relate them to the success rate to come out with distributions for success fundrasing amount in different range. It is an interesting database as it is over a long time range and will reflect people's taste over time. It will also further researches on public feelings for such kind of projects.
 
 ## Describe your dataset in about 150-200 words
 
@@ -22,7 +22,7 @@ We selected "Kickstarter Projects" as our dataset. Kickstarter is an online crow
 ## Team Members
 
 - Ronan McKenna: Third year computer science
-- Person 2: one sentence about you!
+- Jenny Yang : Fourth year management student 
 
 ## Images
 
