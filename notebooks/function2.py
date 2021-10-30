@@ -1,4 +1,4 @@
-#import library
+
 import pandas as pd
 import numpy as np
 
@@ -9,7 +9,7 @@ def load_and_process(url_or_path_to_csv_file):
     df1 = (
        data
             
-        .drop(['ID','name','category','currency','deadline','launched','backers','pledged','goal','usd pledged','country'],axis=1)
+            .drop(['ID','name','category','currency','deadline','launched','backers','pledged','goal','usd pledged','country'],axis=1)
         
             .drop(data[(data.state != 'successful') & (data.state != 'failed')].index)
         
