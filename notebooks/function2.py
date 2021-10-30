@@ -1,6 +1,7 @@
 
 import pandas as pd
 import numpy as np
+pd.set_option('use_inf_as_na', True)
 
 def load_and_process(url_or_path_to_csv_file):
     
